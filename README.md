@@ -3,7 +3,7 @@
 A Blog app built with Django web framework styled with Bootstrap with Authentication, Authorization and CRUD features
 check production build example at [mystic-news](https://mystic-news.herokuapp.com/)
 
-> Enhanced Blog Django starter project.
+> news-app Django starter project.
 
 ## 🚀 Features
 
